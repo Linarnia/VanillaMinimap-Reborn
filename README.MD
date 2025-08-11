@@ -1,14 +1,7 @@
 ## Vanilla Minimaps
 
 -----
-
-A minimap plugin, without any clientside mods.
-
-https://github.com/JNNGL/VanillaMinimaps/assets/45935949/4a6f9cf4-0575-4a46-852e-da11a18edc56
-
-https://github.com/JNNGL/VanillaMinimaps/assets/45935949/ea7738c9-bd4a-4388-9d65-109aa9233fcc
-
-https://github.com/JNNGL/VanillaMinimaps/assets/45935949/f64aed82-8193-4c3b-9c8f-be32dc3d6fa0
+В планах на переработку.
 
 **Supported server version: 1.21**
 
